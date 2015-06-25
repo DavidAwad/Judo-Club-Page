@@ -1,5 +1,8 @@
-# Rutgers Judo Club 
+# Rutgers Judo Club
 This is my fork of one of my favorite bootstrap themes. Going to be adding some more contact info and links and things.
+
+
+I've only edited a nice looking bootstrap template. 
 
 ## Creator
 
